@@ -1,0 +1,6 @@
+LIBRARY bcrypt.dll
+
+EXPORTS
+	BCryptOpenAlgorithmProvider
+	BCryptCloseAlgorithmProvider
+	BCryptGenRandom
